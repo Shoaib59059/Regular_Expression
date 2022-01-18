@@ -15,10 +15,10 @@
 
 ### If user want to check REGULAR EXPRESSION by clicking on ***RUN*** button the validation is as follows:-
 
-- ### String to text on field is **mandatory**
-- ### Enter the Regular Expression field is **mandatory**
-- ### Selecting a flag is **mandatory** (user can also    choose 'no flag')
-<!-- This page contains the validation that it is mandatory to enter STRING, Regular Expression and select a flag if user want to Click on Run button to check RegEX. -->
+- ### *'String to text on field'* is **mandatory**
+- ### *'Enter the Regular Expression'* field is **mandatory**
+- ### Selecting a flag is **mandatory** (user can also choose 'no flag')
+
 <BR>
 
 ### If user want to run a REGULAR EXPRESSION FUNCTION by clicking on ***TEST FUNCTION*** button the validation is as follows:-
@@ -30,7 +30,7 @@
 
 <BR>
 
-## All the BONUS FEATURES have been includes:-
+## All the BONUS FEATURES have been included:-
 
 
 -  ### users can select flag (eg. - **['/g', '/i', '/m']**)
